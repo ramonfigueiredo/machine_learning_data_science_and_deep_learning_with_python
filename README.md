@@ -11,7 +11,7 @@ Machine Learning, Data Science and Deep Learning with Python
 7. [Dealing with Real-World Data](#dealing-with-real-world-data)
 8. [Apache Spark-Machine Learning on Big Data](#apache-spark-machine-learning-on-big-data)
 9. [Experimental Design-ML in the Real World](#experimental-design-ml-in-the-real-world)
-10. [Deep Learning and Neural Networks](deep-learning-and-neural-networks)
+10. [Deep Learning and Neural Networks](#deep-learning-and-neural-networks)
 
 ## Python Basics
 
