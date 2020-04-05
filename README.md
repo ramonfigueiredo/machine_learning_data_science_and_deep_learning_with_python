@@ -25,6 +25,8 @@ Go to [Contents](#contents)
 
 * [MeanMedianMode.ipynb](https://github.com/ramonfigueiredopessoa/machine_learning_data_science_and_deep_learning_with_python/blob/master/jupyter_notebook/MeanMedianMode.ipynb)
 
+* [StdDevVariance.ipynb](https://github.com/ramonfigueiredopessoa/machine_learning_data_science_and_deep_learning_with_python/blob/master/jupyter_notebook/StdDevVariance.ipynb)
+
 Go to [Contents](#contents)
 
 ## Predictive Models
