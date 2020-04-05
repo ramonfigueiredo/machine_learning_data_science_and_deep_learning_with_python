@@ -15,6 +15,8 @@ Machine Learning, Data Science and Deep Learning with Python
 
 ## Python Basics
 
+a.  [Python101.ipynb](https://github.com/ramonfigueiredopessoa/machine_learning_data_science_and_deep_learning_with_python/blob/master/jupyter_notebook/Python101.ipynb)
+
 Go to [Contents](#contents)
 
 ## Statistics and Probability Refresher and Python Practice
