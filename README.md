@@ -2,7 +2,7 @@ Machine Learning, Data Science and Deep Learning with Python
 ===========================
 
 ## Contents
-1. [Python Basics](#python-basics)
+1. [Introduction](#introduction)
 2. [Statistics and Probability Refresher and Python Practice](#statistics-and-probability-refresher-and-python-practice)
 3. [Predictive Models](#predictive-models)
 4. [Machine Learning with Python](#machine-learning-with-python)
@@ -13,9 +13,11 @@ Machine Learning, Data Science and Deep Learning with Python
 9. [Experimental Design-ML in the Real World](#experimental-design-ml-in-the-real-world)
 10. [Deep Learning and Neural Networks](#deep-learning-and-neural-networks)
 
-## Python Basics
+## Introduction
 
-a.  [Python101.ipynb](https://github.com/ramonfigueiredopessoa/machine_learning_data_science_and_deep_learning_with_python/blob/master/jupyter_notebook/Python101.ipynb)
+* [Python101.ipynb](https://github.com/ramonfigueiredopessoa/machine_learning_data_science_and_deep_learning_with_python/blob/master/jupyter_notebook/Python101.ipynb)
+
+* [PandasTutorial.ipynb](https://github.com/ramonfigueiredopessoa/machine_learning_data_science_and_deep_learning_with_python/blob/master/jupyter_notebook/PandasTutorial.ipynb)
 
 Go to [Contents](#contents)
 
