@@ -59,4 +59,11 @@ Go to [Contents](#contents)
 
 2. Run [Jupyter Notebook](https://jupyter.org/)
 
+Open the **jupyter_notebook** folder and run the jupyter notebook:
+
+```
+cd jupyter_notebook
+jupyter notebook
+```
+
 Go to [Contents](#contents)
