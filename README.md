@@ -79,6 +79,10 @@ Go to [Contents](#contents)
 
 ## More Data Mining and Machine Learning Techniques
 
+* [KNN.ipynb](https://github.com/ramonfigueiredopessoa/machine_learning_data_science_and_deep_learning_with_python/blob/master/jupyter_notebook/6_more_data_mining_and_ml_techniques/KNN.ipynb)
+
+* [PCA.ipynb](https://github.com/ramonfigueiredopessoa/machine_learning_data_science_and_deep_learning_with_python/blob/master/jupyter_notebook/6_more_data_mining_and_ml_techniques/PCA.ipynb)
+
 Go to [Contents](#contents)
 
 ## Dealing with Real-World Data
