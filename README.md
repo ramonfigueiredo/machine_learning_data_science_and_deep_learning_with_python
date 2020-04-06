@@ -11,13 +11,13 @@ Machine Learning, Data Science and Deep Learning with Python
 7. [Dealing with Real-World Data](#dealing-with-real-world-data)
 8. [Apache Spark-Machine Learning on Big Data](#apache-spark-machine-learning-on-big-data)
 9. [Experimental Design-ML in the Real World](#experimental-design-ml-in-the-real-world)
-10. [Deep Learning and Neural Networks](#deep-learning-and-neural-networks)
+10. [Deep Learning and Neural Networks](#deep-learnin-gand-neural-networks)
 
 ## Introduction
 
-* [Python101.ipynb](https://github.com/ramonfigueiredopessoa/machine_learning_data_science_and_deep_learning_with_python/blob/master/jupyter_notebook/Python101.ipynb)
+* [Python101.ipynb](https://github.com/ramonfigueiredopessoa/machine_learning_data_science_and_deep_learning_with_python/blob/master/jupyter_notebook/1_introduction/Python101.ipynb)
 
-* [PandasTutorial.ipynb](https://github.com/ramonfigueiredopessoa/machine_learning_data_science_and_deep_learning_with_python/blob/master/jupyter_notebook/PandasTutorial.ipynb)
+* [PandasTutorial.ipynb](https://github.com/ramonfigueiredopessoa/machine_learning_data_science_and_deep_learning_with_python/blob/master/jupyter_notebook/1_introduction/PandasTutorial.ipynb)
 
 Go to [Contents](#contents)
 
