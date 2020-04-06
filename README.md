@@ -23,9 +23,23 @@ Go to [Contents](#contents)
 
 ## Statistics and Probability Refresher and Python Practice
 
-* [MeanMedianMode.ipynb](https://github.com/ramonfigueiredopessoa/machine_learning_data_science_and_deep_learning_with_python/blob/master/jupyter_notebook/2_statistics_and_probability/MeanMedianMode.ipynb)
+* [MeanMedianMode.ipynb](https://github.com/ramonfigueiredopessoa/machine_learning_data_science_and_deep_learning_with_python/blob/master/jupyter_notebook/2_statistics_probability_and_python_practice/MeanMedianMode.ipynb)
 
-* [StdDevVariance.ipynb](https://github.com/ramonfigueiredopessoa/machine_learning_data_science_and_deep_learning_with_python/blob/master/jupyter_notebook/2_statistics_and_probability/StdDevVariance.ipynb)
+* [StdDevVariance.ipynb](https://github.com/ramonfigueiredopessoa/machine_learning_data_science_and_deep_learning_with_python/blob/master/jupyter_notebook/2_statistics_probability_and_python_practice/StdDevVariance.ipynb)
+
+* [Distributions.ipynb](https://github.com/ramonfigueiredopessoa/machine_learning_data_science_and_deep_learning_with_python/blob/master/jupyter_notebook/2_statistics_probability_and_python_practice/Distributions.ipynb)
+
+* [Percentiles.ipynb](https://github.com/ramonfigueiredopessoa/machine_learning_data_science_and_deep_learning_with_python/blob/master/jupyter_notebook/2_statistics_probability_and_python_practice/Percentiles.ipynb)
+
+* [Moments.ipynb](https://github.com/ramonfigueiredopessoa/machine_learning_data_science_and_deep_learning_with_python/blob/master/jupyter_notebook/2_statistics_probability_and_python_practice/Moments.ipynb)
+
+* [MatPlotLib.ipynb](https://github.com/ramonfigueiredopessoa/machine_learning_data_science_and_deep_learning_with_python/blob/master/jupyter_notebook/2_statistics_probability_and_python_practice/MatPlotLib.ipynb)
+
+* [Seaborn.ipynb](https://github.com/ramonfigueiredopessoa/machine_learning_data_science_and_deep_learning_with_python/blob/master/jupyter_notebook/2_statistics_probability_and_python_practice/Seaborn.ipynb)
+
+* [CovarianceCorrelation.ipynb](https://github.com/ramonfigueiredopessoa/machine_learning_data_science_and_deep_learning_with_python/blob/master/jupyter_notebook/2_statistics_probability_and_python_practice/CovarianceCorrelation.ipynb)
+
+* [ConditionalProbability.ipynb](https://github.com/ramonfigueiredopessoa/machine_learning_data_science_and_deep_learning_with_python/blob/master/jupyter_notebook/2_statistics_probability_and_python_practice/ConditionalProbability.ipynb)
 
 Go to [Contents](#contents)
 
