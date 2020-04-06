@@ -71,6 +71,10 @@ Go to [Contents](#contents)
 
 ## Recommender Systems
 
+* [SimilarMovies.ipynb](https://github.com/ramonfigueiredopessoa/machine_learning_data_science_and_deep_learning_with_python/blob/master/jupyter_notebook/5_recommender_systems/SimilarMovies.ipynb)
+
+* [ItemBasedCF.ipynb](https://github.com/ramonfigueiredopessoa/machine_learning_data_science_and_deep_learning_with_python/blob/master/jupyter_notebook/5_recommender_systems/ItemBasedCF.ipynb)
+
 Go to [Contents](#contents)
 
 ## More Data Mining and Machine Learning Techniques
