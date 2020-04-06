@@ -112,6 +112,8 @@ Go to [Contents](#contents)
 
 ## Experimental Design-ML in the Real World
 
+* [TTest.ipynb](https://github.com/ramonfigueiredopessoa/machine_learning_data_science_and_deep_learning_with_python/blob/master/jupyter_notebook/9_experimental_design/TTest.ipynb)
+
 Go to [Contents](#contents)
 
 ## Deep Learning and Neural Networks
