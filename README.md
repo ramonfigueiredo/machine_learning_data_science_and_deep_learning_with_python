@@ -23,9 +23,9 @@ Go to [Contents](#contents)
 
 ## Statistics and Probability Refresher and Python Practice
 
-* [MeanMedianMode.ipynb](https://github.com/ramonfigueiredopessoa/machine_learning_data_science_and_deep_learning_with_python/blob/master/jupyter_notebook/MeanMedianMode.ipynb)
+* [MeanMedianMode.ipynb](https://github.com/ramonfigueiredopessoa/machine_learning_data_science_and_deep_learning_with_python/blob/master/jupyter_notebook/2_statistics_and_probability/MeanMedianMode.ipynb)
 
-* [StdDevVariance.ipynb](https://github.com/ramonfigueiredopessoa/machine_learning_data_science_and_deep_learning_with_python/blob/master/jupyter_notebook/StdDevVariance.ipynb)
+* [StdDevVariance.ipynb](https://github.com/ramonfigueiredopessoa/machine_learning_data_science_and_deep_learning_with_python/blob/master/jupyter_notebook/2_statistics_and_probability/StdDevVariance.ipynb)
 
 Go to [Contents](#contents)
 
