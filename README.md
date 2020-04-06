@@ -55,6 +55,18 @@ Go to [Contents](#contents)
 
 ## Machine Learning with Python
 
+* [TrainTest.ipynb](https://github.com/ramonfigueiredopessoa/machine_learning_data_science_and_deep_learning_with_python/blob/master/jupyter_notebook/4_machine_learning_with_python/TrainTest.ipynb)
+
+* [NaiveBayes.ipynb](https://github.com/ramonfigueiredopessoa/machine_learning_data_science_and_deep_learning_with_python/blob/master/jupyter_notebook/4_machine_learning_with_python/NaiveBayes.ipynb)
+
+* [KMeans.ipynb](https://github.com/ramonfigueiredopessoa/machine_learning_data_science_and_deep_learning_with_python/blob/master/jupyter_notebook/4_machine_learning_with_python/KMeans.ipynb)
+
+* [DecisionTree.ipynb](https://github.com/ramonfigueiredopessoa/machine_learning_data_science_and_deep_learning_with_python/blob/master/jupyter_notebook/4_machine_learning_with_python/DecisionTree.ipynb)
+
+* [XGBoost.ipynb](https://github.com/ramonfigueiredopessoa/machine_learning_data_science_and_deep_learning_with_python/blob/master/jupyter_notebook/4_machine_learning_with_python/XGBoost.ipynb)
+
+* [SVC.ipynb](https://github.com/ramonfigueiredopessoa/machine_learning_data_science_and_deep_learning_with_python/blob/master/jupyter_notebook/4_machine_learning_with_python/SVC.ipynb)
+
 Go to [Contents](#contents)
 
 ## Recommender Systems
