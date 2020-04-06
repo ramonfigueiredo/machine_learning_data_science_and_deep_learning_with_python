@@ -108,6 +108,8 @@ Go to [Contents](#contents)
 
 * [SparkLinearRegression.py](https://github.com/ramonfigueiredopessoa/machine_learning_data_science_and_deep_learning_with_python/blob/master/jupyter_notebook/8_apache_spark/SparkLinearRegression.py)
 
+* [SparkPCA.py](https://github.com/ramonfigueiredopessoa/machine_learning_data_science_and_deep_learning_with_python/blob/master/jupyter_notebook/8_apache_spark/SparkPCA.py)
+
 Go to [Contents](#contents)
 
 ## Experimental Design-ML in the Real World
