@@ -45,6 +45,12 @@ Go to [Contents](#contents)
 
 ## Predictive Models
 
+* [LinearRegression.ipynb](https://github.com/ramonfigueiredopessoa/machine_learning_data_science_and_deep_learning_with_python/blob/master/jupyter_notebook/3_predictive_models/LinearRegression.ipynb)
+
+* [PolynomialRegression.ipynb](https://github.com/ramonfigueiredopessoa/machine_learning_data_science_and_deep_learning_with_python/blob/master/jupyter_notebook/3_predictive_models/PolynomialRegression.ipynb)
+
+* [MultipleRegression.ipynb](https://github.com/ramonfigueiredopessoa/machine_learning_data_science_and_deep_learning_with_python/blob/master/jupyter_notebook/3_predictive_models/MultipleRegression.ipynb)
+
 Go to [Contents](#contents)
 
 ## Machine Learning with Python
