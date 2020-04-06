@@ -100,6 +100,14 @@ Go to [Contents](#contents)
 
 ## Apache Spark-Machine Learning on Big Data
 
+* [SparkDecisionTree.py](https://github.com/ramonfigueiredopessoa/machine_learning_data_science_and_deep_learning_with_python/blob/master/jupyter_notebook/8_apache_spark/SparkDecisionTree.py)
+
+* [SparkKMeans.py](https://github.com/ramonfigueiredopessoa/machine_learning_data_science_and_deep_learning_with_python/blob/master/jupyter_notebook/8_apache_spark/SparkKMeans.py)
+
+* [TF-IDF.py](https://github.com/ramonfigueiredopessoa/machine_learning_data_science_and_deep_learning_with_python/blob/master/jupyter_notebook/8_apache_spark/TF-IDF.py)
+
+* [SparkLinearRegression.py](https://github.com/ramonfigueiredopessoa/machine_learning_data_science_and_deep_learning_with_python/blob/master/jupyter_notebook/8_apache_spark/SparkLinearRegression.py)
+
 Go to [Contents](#contents)
 
 ## Experimental Design-ML in the Real World
