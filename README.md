@@ -90,6 +90,12 @@ Go to [Contents](#contents)
 
 ## Dealing with Real-World Data
 
+* [KFoldCrossValidation.ipynb](https://github.com/ramonfigueiredopessoa/machine_learning_data_science_and_deep_learning_with_python/blob/master/jupyter_notebook/7_dealing_with_real_world_data/KFoldCrossValidation.ipynb)
+
+* [TopPages.ipynb](https://github.com/ramonfigueiredopessoa/machine_learning_data_science_and_deep_learning_with_python/blob/master/jupyter_notebook/7_dealing_with_real_world_data/TopPages.ipynb)
+
+* [Outliers.ipynb](https://github.com/ramonfigueiredopessoa/machine_learning_data_science_and_deep_learning_with_python/blob/master/jupyter_notebook/7_dealing_with_real_world_data/Outliers.ipynb)
+
 Go to [Contents](#contents)
 
 ## Apache Spark-Machine Learning on Big Data
