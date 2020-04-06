@@ -120,6 +120,22 @@ Go to [Contents](#contents)
 
 ## Deep Learning and Neural Networks
 
+* [Tensorflow.ipynb](https://github.com/ramonfigueiredopessoa/machine_learning_data_science_and_deep_learning_with_python/blob/master/jupyter_notebook/10_deep_learning_and_neural_networks/Tensorflow.ipynb)
+
+* [Keras.ipynb](https://github.com/ramonfigueiredopessoa/machine_learning_data_science_and_deep_learning_with_python/blob/master/jupyter_notebook/10_deep_learning_and_neural_networks/Keras.ipynb)
+
+* [Politics.ipynb](https://github.com/ramonfigueiredopessoa/machine_learning_data_science_and_deep_learning_with_python/blob/master/jupyter_notebook/10_deep_learning_and_neural_networks/Politics.ipynb)
+
+* [Keras-CNN.ipynb](https://github.com/ramonfigueiredopessoa/machine_learning_data_science_and_deep_learning_with_python/blob/master/jupyter_notebook/10_deep_learning_and_neural_networks/Keras-CNN.ipynb)
+
+* [Keras-RNN.ipynb](https://github.com/ramonfigueiredopessoa/machine_learning_data_science_and_deep_learning_with_python/blob/master/jupyter_notebook/10_deep_learning_and_neural_networks/Keras-RNN.ipynb)
+
+* [TransferLearning.ipynb](https://github.com/ramonfigueiredopessoa/machine_learning_data_science_and_deep_learning_with_python/blob/master/jupyter_notebook/10_deep_learning_and_neural_networks/TransferLearning.ipynb)
+
+* [mammo_masses.ipynb](https://github.com/ramonfigueiredopessoa/machine_learning_data_science_and_deep_learning_with_python/blob/master/jupyter_notebook/10_deep_learning_and_neural_networks/mammo_masses.ipynb)
+
+* [mammo_masses_using_keras.ipynb](https://github.com/ramonfigueiredopessoa/machine_learning_data_science_and_deep_learning_with_python/blob/master/jupyter_notebook/10_deep_learning_and_neural_networks/mammo_masses_using_keras.ipynb)
+
 Go to [Contents](#contents)
 
 ## How to run the Python program?
